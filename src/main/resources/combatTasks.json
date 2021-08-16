@@ -1,0 +1,14 @@
+[
+  {
+    "taskName": "task 1",
+    "taskDescription": "this is combat task 1",
+    "image": "",
+    "requirements": ""
+  },
+  {
+    "taskName": "task 2",
+    "taskDescription": "this is combat task 2",
+    "image": "",
+    "requirements": ""
+  }
+]
